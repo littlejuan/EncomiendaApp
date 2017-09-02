@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_ubication_options">
+        <item>@string/america_n</item>
+        <item>@string/america_c</item>
+        <item>@string/america_s</item>
+        <item>@string/europa</item>
+        <item>@string/asia</item>
+    </string-array>
+</resources>
